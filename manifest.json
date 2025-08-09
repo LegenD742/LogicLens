@@ -2,6 +2,7 @@
     "manifest_version":3,
     "name" : "AI helper",
     "version" : "0.1",
+    "author" : "Devansh Sapra (heisenberg) xoxo",
 
     "permissions" : ["scripting","activeTab","storage"],
 
