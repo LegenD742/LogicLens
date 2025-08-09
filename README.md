@@ -14,6 +14,11 @@ Whether you're researching, learning, or coding, LogicLens saves you time and bo
 
 ---
 
+![My Image](images/i1.png)
+![My Image](images/i2.png)
+
+---
+
 ## 🛠 How It Works
 1. **Clone the project** - Clone the project in your local machine <br> 
 '''bash 
