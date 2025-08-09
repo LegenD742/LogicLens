@@ -21,12 +21,13 @@ Whether you're researching, learning, or coding, LogicLens saves you time and bo
 
 ## 🛠 How It Works
 1. **Clone the project** - Clone the project in your local machine <br> 
-'''bash 
+```bash 
 git clone https://github.com/LegenD742/LogicLens.git
-'''
-2. **You need a Gemini API key** - Because of rate limits and requests per minute, user would need their own API key<br>PS: On starting the extension it would redirect you to gemini's API page in case you dont have one, you just need to do it once for the first time.
-3. **Open an Article** – Click the extension to instantly see a summary.
-4. **Open a Coding Problem** (e.g., LeetCode) – Get AI-generated C++ code and explanation right in your browser.
-5. **Copy & Use** – Copy summaries or code with one click.
+```
+2. **Setup** - go to chrome, type **chrome://extensions**, turn on developer mode, click on load unpacked, select LogicLens folder.
+3. **You need a Gemini API key** - Because of rate limits and requests per minute, user would need their own API key<br>PS: On starting the extension it would redirect you to gemini's API page in case you dont have one, you just need to do it once for the first time.
+4. **Open an Article** – Click the extension to instantly see a summary.
+5. **Open a Coding Problem** (e.g., LeetCode) – Get AI-generated C++ code and explanation right in your browser.
+6. **Copy & Use** – Copy summaries or code with one click.
 
 ---
