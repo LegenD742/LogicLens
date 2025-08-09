@@ -1,4 +1,4 @@
-# LogicLens – Summarize Articles & Write C++ Code
+# 🤖🔍LogicLens – Summarize Articles & Write C++ Code
 
 LogicLens is a powerful Chrome extension powered by Gemini, that helps you **understand any article instantly** and **generate C++ code** right from your browser.  
 Whether you're researching, learning, or coding, LogicLens saves you time and boosts productivity.
